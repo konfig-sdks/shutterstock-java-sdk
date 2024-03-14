@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 [![Visit Shutterstock](./header.png)](https://developers.shutterstock.com)
 
